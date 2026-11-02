@@ -1,4 +1,4 @@
-# Mon Portfolio de Laboratoires Réseaux & Sécurité 🚀
+# Mon Portfolio de Laboratoire Réseaux & Sécurité 🚀
 
 Bienvenue dans mon dépôt de projets réseaux ! Ce dépôt regroupe mes différents travaux pratiques et configurations d'infrastructures basés sur Cisco Packet Tracer.
 
